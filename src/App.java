@@ -53,6 +53,11 @@ public class App {
             System.out.println(i);
         }
 
+        //Hay que hacer que mire bonito
+
     }
+
+    //Aqui va el metodo de inverso
+    //los voy a apalzar a todos
 
 }
