@@ -58,6 +58,6 @@ public class App {
     }
 
     //Aqui va el metodo de inverso
-    //los voy a apalzar a todos
+    //los voy a Aplazar a todos
 
 }
